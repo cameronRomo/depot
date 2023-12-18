@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+.cart-table-price {
+  border-top: black solid;
+}
+
+.cart-table-total {
+  text-align: right;
+  padding-right: 1rem;
+}
